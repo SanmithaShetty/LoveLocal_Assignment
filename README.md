@@ -1,18 +1,18 @@
-##LoveLocal_Assignment
+# LoveLocal_Assignment
 
 **Student Information**
 
-**Name**: Sanmitha Chitharanjan Shetty
+## **Name**: Sanmitha Chitharanjan Shetty
 
-**College**: St. Joseph Engineering College, Mangalore
+## **College**: St. Joseph Engineering College, Mangalore
 
-**Email ID**: sanmishetty21@gmail.com
+## **Email ID**: sanmishetty21@gmail.com
 
-**Assignment Overview**
+## **Assignment Overview**
 
 This repository contains the code for three questions as part of the LoveLocal round 1 assignment.
 
-**Questions**
+## **Questions**
 
 [Question 1]
 Given a string s consisting of words and spaces, return the length of the last word in the string.
