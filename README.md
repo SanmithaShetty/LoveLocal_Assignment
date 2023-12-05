@@ -1,6 +1,7 @@
 #LoveLocal_Assignment
 
 **Student Information**
+
 #Name: Sanmitha Chitharanjan Shetty
 #College: St. Joseph Engineering College, Mangalore
 Email ID: sanmishetty21@gmail.com
