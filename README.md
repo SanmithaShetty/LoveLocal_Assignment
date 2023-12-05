@@ -1,6 +1,6 @@
 # LoveLocal_Assignment
 
-##**Student Information**
+## **Student Information**
 
 ### **Name**: Sanmitha Chitharanjan Shetty
 
