@@ -1,8 +1,8 @@
 #LoveLocal_Assignment
 
 **Student Information**
-Name: Sanmitha Chitharanjan Shetty
-College: St. Joseph Engineering College, Mangalore
+#Name: Sanmitha Chitharanjan Shetty
+#College: St. Joseph Engineering College, Mangalore
 Email ID: sanmishetty21@gmail.com
 Assignment Overview
 This repository contains the code for three questions as part of the LoveLocal round 1 assignment.
