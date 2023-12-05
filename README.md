@@ -1,4 +1,4 @@
-#LoveLocal_Assignment
+##LoveLocal_Assignment
 
 **Student Information**
 
@@ -13,6 +13,7 @@
 This repository contains the code for three questions as part of the LoveLocal round 1 assignment.
 
 **Questions**
+
 [Question 1]
 Given a string s consisting of words and spaces, return the length of the last word in the string.
 A word is a maximal 
